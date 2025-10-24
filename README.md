@@ -1,2 +1,2 @@
 # GUGHAN-S
-My Personal Repository
+Hi there! I'm Gughan.
