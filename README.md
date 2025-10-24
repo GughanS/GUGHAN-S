@@ -1,2 +1,2 @@
 # GUGHAN-S
-Hi there! I'm Gughan.
+Hi there 👋!! I'm Gughan.
