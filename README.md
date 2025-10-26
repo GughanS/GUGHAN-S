@@ -15,8 +15,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gughan-s)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:gughanguguu@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle\&logoColor=white)](https://www.kaggle.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode\&logoColor=white)](https://leetcode.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle\&logoColor=white)](https://www.kaggle.com/gughangugu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode\&logoColor=white)](https://leetcode.com/u/Gughangugu/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/GughanS)
 
 ---
